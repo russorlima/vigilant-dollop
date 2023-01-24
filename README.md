@@ -2,4 +2,4 @@
 
 Bem vindo vigilant-dollop :tada:
 
-O repositório onde atendedemos com cerras elétricas
+O repositório onde atendedemos com serras elétricas
